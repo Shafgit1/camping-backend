@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0lmV72mD1g8JqAZ+coHdVLWXdt3fE271BbbXi+y5HzE=",
+  "Source": "my-weprog-backend",
+  "BasePath": "_content/my-weprog-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

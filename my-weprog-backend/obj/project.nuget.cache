@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4jyfaa4AEfb+zXfYk+W6tjC03pY4LYmnPmQ9T3HWO3ZYVyNQUqQGyL6q6GE7/jr9levH464LlTpe8PNlzRgNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shafi\\Desktop\\web-programming\\my-weprog-backend\\my-weprog-backend\\my-weprog-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shafi\\.nuget\\packages\\litedb\\5.0.19\\litedb.5.0.19.nupkg.sha512",
+    "C:\\Users\\Shafi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shafi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Shafi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shafi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shafi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shafi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
